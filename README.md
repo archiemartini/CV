@@ -8,16 +8,17 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | ---------------------------- | ----------------- | ----------------- |
 | **Brains On Brioche**            | A webapp that gives the user recipe suggestions from the contents of their fridge | MERN, React-Redux, Jest, Cypress etc. |
 |**Bettah** | Facebook but better | MongoDB, Express, Handlebars, Node.js, Jest, Cypress |
-|**MakersBnB** | Facebook but better | Rails, Sinatra, Capybara |
+|**MakersBnB** | A clone of the AirBnB website | Rails, Sinatra, Capybara |
 
 ## Work Experience
 
 **The Cultural Me** (sept 2020 to sept 2021)  
 Editorial and Creative Assistant
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Worked in a team to deliver highly succinct educational content to be delivered to a worldwide audience, under weekly deadlines.
+- Involved with product development, design, and advertisement, with a given responsibility for drafting pitches to educational institutions/investors
 
 **MediaPlanet** (nov 2021 to feb 2022)  
-Editor & Proofreader
+Freelance Editor & Proofreader
 - Any experience relevent to software development
 
 **Roar News** (2017-2020)
