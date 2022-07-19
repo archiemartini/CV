@@ -1,4 +1,4 @@
-## Your Name
+## Archie Martin
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -11,15 +11,19 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
+**The Cultural Me** (sept 2020 to sept 2021)  
+Editorial and Creative Assistant
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
+**MediaPlanet** (nov 2021 to feb 2022)  
+Editor & Proofreader
 - Any experience relevent to software development
+
+**Roar News** (2017-2020)
+Editor & Proofreader
+
+**Action Tutoring** (2021-present)
+Volunteer English Tutor
 
 ## Skills
 
@@ -53,7 +57,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (march 2022/)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,11 +66,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### King's College London (sept 2016/may 2020)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA Classical Studies with English Literature, specializing in Greek Drama & Literature, James Joyce, and Milton
+- Awarded a 2:1 with a 67 average in my Final year
+- Worked as a trusted editor of the university newspaper, ROAR
 
 #### Any other qualifications
 
