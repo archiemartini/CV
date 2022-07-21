@@ -6,7 +6,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Brains On Brioche**            | A webapp that gives the user recipe suggestions from the contents of their fridge | MERN, React-Redux, Jest, Cypress etc. |
+| [Brains On Brioche](https://github.com/Farzan-I/brains-on-brioche)     | A webapp that gives the user recipe suggestions from the contents of their fridge | MERN, React-Redux, Jest, Cypress etc. |
 |**Bettah** | Facebook but better | MongoDB, Express, Handlebars, Node.js, Jest, Cypress |
 |**MakersBnB** | A clone of the AirBnB website | Rails, Sinatra, Capybara |
 
