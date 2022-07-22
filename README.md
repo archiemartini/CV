@@ -12,7 +12,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 |**Bettah** | Facebook but better | MEHN stack (MongoDB, Express, Handlebars, Node.js) Jest, Cypress |
 |**MakersBnB** | A clone of the AirBnB website | Rails, Sinatra, Capybara, RSpec |
 
-## Work Experience
+## Experience
 
 **The Cultural Me** (sept 2020 to sept 2021)  
 Editorial and Creative Assistant
