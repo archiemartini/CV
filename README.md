@@ -1,14 +1,16 @@
 ## Archie Martin
 
+A full-stack JS/
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [Brains On Brioche](https://github.com/Farzan-I/brains-on-brioche)     | A webapp that gives the user recipe suggestions from the contents of their fridge | MERN, React-Redux, Jest, Cypress etc. |
-|**Bettah** | Facebook but better | MongoDB, Express, Handlebars, Node.js, Jest, Cypress |
-|**MakersBnB** | A clone of the AirBnB website | Rails, Sinatra, Capybara |
+| [Brains On Brioche](https://github.com/Farzan-I/brains-on-brioche)     | A webapp that gives the user recipe suggestions from the contents of their fridge | MERN stack (MongoDB, Express, React, Node.js), React-Redux, CSS, HTML, Cypress, Jest |
+|**Bettah** | Facebook but better | MEHN stack (MongoDB, Express, Handlebars, Node.js) Jest, Cypress |
+|**MakersBnB** | A clone of the AirBnB website | Rails, Sinatra, Capybara, RSpec |
 
 ## Work Experience
 
@@ -16,6 +18,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 Editorial and Creative Assistant
 - Worked in a team to deliver highly succinct educational content to be delivered to a worldwide audience, under weekly deadlines.
 - Involved with product development, design, and advertisement, with a given responsibility for drafting pitches to educational institutions/investors
+- Required: fast acquisition of subject knowledge, a constant eye to writing in a strict house style, and seamless communication with colleagues.
 
 **MediaPlanet** (nov 2021 to feb 2022)  
 Freelance Editor & Proofreader
@@ -26,6 +29,7 @@ Editor & Proofreader
 
 **Action Tutoring** (2021-present)
 Volunteer English Tutor
+-
 
 ## Skills
 
