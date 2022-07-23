@@ -1,14 +1,12 @@
 ## Archie Martin
 
-A full-stack JS/Ruby developer with penchant for problem-solving
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A full-stack JS/Ruby developer with a penchant for problem-solving and a winning smile. I've spent the past ten months learning to code, four of those under the tutelage of leading bootcamp, Makers Academy. I'm looking to make a difference in people's lives with the code that I write. I ain't interested in working for no algorithym overlords. Most of all, I'm excited to learn, and never stop learning. That's my goal. If you think you can help me in achieving this, don't hesitate to contact me 🚂
 
 ## Projects
 
 | Name     |Group/Solo  | Description | Technologies|
 |---       |---          |---          |---          |
-| [Brains On Brioche](https://github.com/Farzan-I/brains-on-brioche) | Group | A webapp that gives the user recipe suggestions from the contents of their fridge | MERN stack (MongoDB, Express, React, Node.js), React-Redux, CSS, HTML, Cypress, Jest, Mongoose |
+| [Brains On Brioche](https://github.com/Farzan-I/brains-on-brioche) | Group | A webapp that gives the user recipe suggestions from the contents of their fridge | JavaScript, MERN stack (MongoDB, Express, React, Node.js), React-Redux, CSS, HTML, Cypress, Jest, Mongoose |
 | [Bettah](https://github.com/tomoneill32/acebook-allowTeamToReceiveName) | Group | Facebook but Better. In this project gained understanding of Express backend architecture, incorporating MongoDB for data storage | JavaScript, Node.js, Express, Handlebars, HTML, CSS, Jest, MongoDB, Mongoose, Cypress, Bcrypt |
 | [MakersBnB](https://github.com/archiemartini/MakersBnB)| Group | An AirBnB clone. | Ruby, Rspec, Sinatra, Capybara, CSS, HTML, PostgreSQL, Bcrypt |
 |[Takeaway Challenge](https://github.com/archiemartini/javascript-takeaway-challenge) | Solo | The backend logic of a takeaway ordering application. A clean example of OOE principles, incorporating API calls | JavaScript, Node.js, Jest |
@@ -17,31 +15,36 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-#### Makers Academy (march 2022/july 022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
+#### Makers Academy (march 2022-july 2022)
+- Worked in teams to both produce and learn the fundamentals of multiple full-stack projects in two-week sprints.
+- Frequently used pair-programming in order to problemsolve effeciently, and further develop my teamwork and communication skills.
+- Received extensive training in all the most valuable of computer engineering conceptsOOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### The Cultural Me (sept 2020/sept 2021)
+#### The Cultural Me (sept 2020-sept 2021)
 Editorial and Creative Assistant
 - Worked in a team to deliver highly succinct educational content to be delivered to a worldwide audience, under weekly deadlines.
-- Involved with product development, design, and advertisement, with a given responsibility for drafting pitches to educational institutions/investors
+- Involved with product development, design, and advertisement.
+- Given responsibility for drafting pitches to educational institutions/investors
 - Required: fast acquisition of subject knowledge, a constant eye to writing in a strict house style, and seamless communication with colleagues.
 
-#### MediaPlanet (nov 2021/feb 2022) 
+#### MediaPlanet (nov 2021-present) 
 Freelance Editor & Proofreader
-- Any experience relevent to software development
+- I leant on my previous experiences in editorial work to turnover articles handed to me within 24 hours
+- Work was to be published in such publications as The Times, The Guardian and The Independent
 
 #### Roar News (2017-2020)
 Editor & Proofreader
+- This role trained me in forensic editing and proof-reading.
+- It was important for me to rigorously fact check all submissions whilst actively communicating with both the writer and the chief editor, respectively.
+
 
 #### Action Tutoring (2021-present)
 Volunteer English Tutor
--
+- Helping teach disadvantaged children, aged 9-15, struggling with English.
+- Either in groups or 1 on 1, I found the process of supporting these children through their school terms and watching their confidence grow extremely rewarding
 
 ## Skills
 
@@ -87,4 +90,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- I am a talented chef, an accomplished eater and an unmatched drinker
+- I've been obsessed with bouldering and rock climbing for many years and I'm currently attending a strongman gym in East London. Watch this space 💪
+- I'm an avid film and television fan, with a savant knowledge of comedy to boot.
