@@ -1,6 +1,6 @@
 ## Archie Martin
 
-A full-stack JS/
+A full-stack JS/Ruby developer with penchant for
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -14,20 +14,29 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**The Cultural Me** (sept 2020 to sept 2021)  
+#### Makers Academy (march 2022/july 022)
+- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
+- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- you might also mention aspects some other skills/knowledge listed below: 
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
+
+#### The Cultural Me (sept 2020/sept 2021)
 Editorial and Creative Assistant
 - Worked in a team to deliver highly succinct educational content to be delivered to a worldwide audience, under weekly deadlines.
 - Involved with product development, design, and advertisement, with a given responsibility for drafting pitches to educational institutions/investors
 - Required: fast acquisition of subject knowledge, a constant eye to writing in a strict house style, and seamless communication with colleagues.
 
-**MediaPlanet** (nov 2021 to feb 2022)  
+#### MediaPlanet (nov 2021/feb 2022) 
 Freelance Editor & Proofreader
 - Any experience relevent to software development
 
-**Roar News** (2017-2020)
+#### Roar News (2017-2020)
 Editor & Proofreader
 
-**Action Tutoring** (2021-present)
+#### Action Tutoring (2021-present)
 Volunteer English Tutor
 -
 
@@ -62,15 +71,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
-
-#### Makers Academy (march 2022/)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
 #### King's College London (sept 2016/may 2020)
 
