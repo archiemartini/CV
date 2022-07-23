@@ -95,3 +95,4 @@ That in some arguable way make you a better software developer or well-rounded p
 - I am a talented chef, an accomplished eater and an unmatched drinker
 - I've been obsessed with bouldering and rock climbing for many years and I'm currently attending a strongman gym in East London. Watch this space 💪
 - I'm an avid film and television fan, with a savant knowledge of comedy to boot.
+- I'd say I'm a gamer, but that implies I play anything more than DayZ, Rocket League, and Mario Kart (Wii)
