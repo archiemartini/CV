@@ -49,17 +49,20 @@ Volunteer English Tutor
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
 
--STAR
+#### Fast Learner
 -What was the situation/task? (ST)
-
+  At Makers Academy, things move fast, and you're never truly at ease. The set materials are designed to push your cognition to its limits in order for it to grow. Everyweek they would set a new subject that would test you beyond belief.
 -How was the skill used?
-
+I never considered myself a fast learner
 -What did you do? (action)
 
 -What was the result?
+I found that with concerted effort, concentration in one area would compound my knowledge in other areas also. I've also found the realisation that I'm a fast and capable learner to be incredibly affirming. Makers has given me the confidence to know that I could walk into any position and become ocmfortable with their technologies and practices with quick turnaround.
+
+#### Team Player
+
+#### Meeting Deadlines
 
 
 #### This Skill
@@ -92,7 +95,7 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 - I am a talented chef, an accomplished eater and an unmatched drinker
-- I've been obsessed with bouldering and rock climbing for many years and I'm currently attending a strongman gym in East London. Watch this space 💪
+- I've been obsessed with bouldering and rock climbing for many years and I'm currently attending a strongman gym in East London, where I regularly attend Brazilian Jiu Jitsu and Boxing classes. Watch this space 💪
 - I'm an avid film and television fan, with a savant knowledge of comedy to boot.
-- I'd say I'm a videogamer, but that implies I play anything more than DayZ, Rocket League, and Mario Kart (Wii)
+- I'd say I'm a videogamer, but that implies my games library consists of more than just DayZ, Rocket League, and Mario Kart (Wii)
 - I'm not afraid to put money on a game of Backgammon 🎲🎲 or Poker 🃏
