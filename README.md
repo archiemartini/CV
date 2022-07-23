@@ -1,8 +1,6 @@
 ## Archie Martin
 
-A full-stack JS/Ruby developer with a penchant for problem-solving and a winning smile. I've spent the past ten months learning to code, four of those under the tutelage of leading bootcamp, Makers Academy. I'm looking to make a difference in people's lives with the code that I write. I ain't interested in working for no algorithym overlords. 
-
-Most of all, I'm excited to learn, and never stop learning. That's my goal. If you think you can help me in achieving this, don't hesitate to contact me 🚂
+A full-stack JS/Ruby developer with a penchant for problem-solving and a winning smile. I've spent the past ten months learning to code, four of those under the tutelage of leading bootcamp, Makers Academy. I'm looking to make a difference in people's lives with the code that I write. Most of all, I'm excited to learn, and never stop learning. That's my goal. If you think you can help me in achieving this, don't hesitate to contact me 🚂
 
 ## Projects
 
@@ -18,7 +16,8 @@ Most of all, I'm excited to learn, and never stop learning. That's my goal. If y
 ## Experience
 
 #### Makers Academy (march 2022-july 2022)
-- Worked in teams to both produce and learn the fundamentals of multiple full-stack projects in two-week sprints.
+- Gave me the confidence to know that I can become comfortable with complex programming concepts and languages in a matter of months, even weeks.
+- Worked in teams to both produce and learn the fundamentals of multiple full-stack projects in two-week Agile sprints.
 - Frequently used pair-programming in order to problemsolve effeciently, and further develop my teamwork and communication skills.
 - Received extensive training in all the most valuable of computer engineering concepts, including: OOP, TDD, MVC, DDD
 - Agile/XP
@@ -95,4 +94,5 @@ That in some arguable way make you a better software developer or well-rounded p
 - I am a talented chef, an accomplished eater and an unmatched drinker
 - I've been obsessed with bouldering and rock climbing for many years and I'm currently attending a strongman gym in East London. Watch this space 💪
 - I'm an avid film and television fan, with a savant knowledge of comedy to boot.
-- I'd say I'm a gamer, but that implies I play anything more than DayZ, Rocket League, and Mario Kart (Wii)
+- I'd say I'm a videogamer, but that implies I play anything more than DayZ, Rocket League, and Mario Kart (Wii)
+- I'm not afraid to put money on a game of Backgammon 🎲🎲 or Poker 🃏
