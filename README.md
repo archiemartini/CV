@@ -20,7 +20,7 @@ Most of all, I'm excited to learn, and never stop learning. That's my goal. If y
 #### Makers Academy (march 2022-july 2022)
 - Worked in teams to both produce and learn the fundamentals of multiple full-stack projects in two-week sprints.
 - Frequently used pair-programming in order to problemsolve effeciently, and further develop my teamwork and communication skills.
-- Received extensive training in all the most valuable of computer engineering conceptsOOP, TDD, MVC, DDD
+- Received extensive training in all the most valuable of computer engineering concepts, including: OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
