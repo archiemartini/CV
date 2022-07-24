@@ -17,10 +17,9 @@ A full-stack JS/Ruby developer with a penchant for problem-solving and a winning
 
 #### Makers Academy (march 2022-july 2022)
 - Gave me the confidence to know that I can become comfortable with complex programming concepts and languages in a matter of months, even weeks.
-- Worked in teams to both produce and learn the fundamentals of multiple full-stack projects in two-week Agile sprints.
+- Worked in teams to both produce and learn the fundamentals of multiple full-stack projects.
+- Received training in Agile processes, in order to complete projects in two-week sprints.
 - Frequently used pair-programming in order to problemsolve effeciently, and further develop my teamwork and communication skills.
-- Received extensive training in all the most valuable of computer engineering concepts, including: OOP, TDD, MVC, DDD
-- Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
@@ -51,14 +50,11 @@ Volunteer English Tutor
 
 
 #### Fast Learner
--What was the situation/task? (ST)
-  At Makers Academy, things move fast, and you're never truly at ease. The set materials are designed to push your cognition to its limits in order for it to grow. Everyweek they would set a new subject that would test you beyond belief.
--How was the skill used?
-I never considered myself a fast learner
--What did you do? (action)
+- At the end of the Makers course, I was placed in a team and tasked with creating a web app entirely of our own design. Guidance was minimal and the coaches encouraged us to learn a new technology in the two weeks assigned.
+- My team decided we would create a MERN stack application from scratch. We decided to choose something that neither of us had any experience with, as learning was our main objective.With 5 hours of a React tutorial under my belt I fell into the position of leading the frontend of the application.
+- There wasn’t time to continue the 16 hour tutorial, we had to deliver our MVP quick (Minimum Viable Product). Over the course of the next couple days I put great emphasis on individual study, going through React documentation, drawing up diagrams, and utilizing smart Google searches to get the exact information and understanding I needed. I then coupled this with extensive pair-programming with my teammates to ensure everyone felt comfortable with the framework.
+- In just three days we delivered our MVP. At the end of the project we had a fully featured, responsive, MERN stack application. I am proud to say I spear-headed the applications frontend and having utilised pair-programming I’d been able to support my team-mates own learning, so that all of us could understand the code we’d written together.
 
--What was the result?
-I found that with concerted effort, concentration in one area would compound my knowledge in other areas also. I've also found the realisation that I'm a fast and capable learner to be incredibly affirming. Makers has given me the confidence to know that I could walk into any position and become ocmfortable with their technologies and practices with quick turnaround.
 
 #### Team Player
 
