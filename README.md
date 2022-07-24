@@ -52,13 +52,26 @@ Volunteer English Tutor
 #### Fast Learner
 - At the end of the Makers course, I was placed in a team and tasked with creating a web app entirely of our own design. Guidance was minimal and the coaches encouraged us to learn a new technology in the two weeks assigned.
 - My team decided we would create a MERN stack application from scratch. We chose something that neither of us had any experience with, as eachother's learning was our sole objective.With 5 hours of a React tutorial under my belt I fell into the position of leading the frontend of the application.
-- There wasn’t time to continue the 16 hour tutorial, we had to deliver our MVP quick (Minimum Viable Product). Over the course of the next couple days I put great emphasis on individual study, going through React documentation, drawing up diagrams, and utilizing smart Google searches to get the exact information and understanding I needed. I then coupled this with extensive pair-programming with my teammates to ensure everyone felt comfortable with the framework.
-- In just three days we delivered our MVP. At the end of the project we had a fully featured, responsive, MERN stack application. I am proud to say I spear-headed the applications frontend and having utilised pair-programming I’d been able to support my team-mates own learning, so that all of us could understand the code we’d written together.
+- There wasn’t time to continue the 16 hour tutorial, we had to deliver our MVP (Minimum Viable Product) quick. Over the course of the next couple days I put great emphasis on individual study, going through React documentation, drawing up diagrams, and utilizing smart Google searches to get the exact information and understanding I needed. I then coupled this with extensive pair-programming with my teammates to ensure everyone felt comfortable with the framework.
+- In just three days we delivered our MVP. At the end of the project we had a fully featured, responsive, MERN stack application. I am proud to say I spear-headed the application's frontend and having utilised pair-programming I’d been able to support my team-mates own learning, so that all of us could understood the code we’d written together.
 
 
-#### Team Player
+#### Team Player // Pair Programming
+- As part of my training at Makers Academy, great emphasis was put on pair-programming to help bolster our learning with as they introduced new concepts on a weekly basis. It was easy to fall behind and on one occasion my colleague with whom I was paired was struggling with the design pattern,  Dependency Injection.
+- Although my partner insisted that we should part ways and work individually, I assured them I had no interest in furthering my own progress with the course materials.
+- I harkened back to my time as an English Tutor, and took time and care to help my colleague build their confidence in this vital aspect of Object Oriented Engineering with which I’d struggled with myself. Using diagrams, mapping out the logic on Miro boards, and going back through previous exercises, I instructed my partner in the complexities of this design pattern.
+- I was reminded of the jiu jitsu classes I attend, and the progress I’d made from the help of others more experienced. In martial arts the community is vital to the process of learning. Therein is a culture of those who are more experienced helping those who are less experienced. A virtue I would like to think I’d bring into any workplace.
+- When you help someone less experienced you empower them and in turn empower yourself and your community and that is something I would take with me into any role. My colleague went on to gain solid understanding of this difficult concept. Whereas I was both glad I consolidated my own learning by helping another and pleased that I contributed to our own Makers cohort community.
+
+
+
 
 #### Meeting Deadlines
+
+- In my role as a Editorial Assistant at a fast-paced startup, The Cultural Me, the director gave us, a team of four, two months to produce fourteen high-quality educational presentations on various topics
+- The production of just one of these presentations required intense study of a single subject, in order to talk about it authorititavely and comprehensively.
+- As a team we utilised trello boards to work in several day Agile sprints, where we would perform morning stand-ups, pitch ideas, draft presentations, and even record video content for our final pieces. 
+- We met our deadline and delivered a pitch that received commendations from such organisations as SOAS university and Tower Hamlets council. With the work we did our director went on to secure government funding for the company, in its quest to help deliver cultural capital to the people.
 
 
 #### This Skill
