@@ -27,14 +27,14 @@ A full-stack JS/Ruby developer with a penchant for problem-solving and a winning
 #### The Cultural Me (sept 2020-sept 2021)
 Editorial and Creative Assistant
 - Worked in a team to deliver highly succinct educational content to be delivered to a worldwide audience, under weekly deadlines.
-- Involved with product development, design, and advertisement.
+- Heavily involved with product development, design, and advertisement.
 - Given responsibility for drafting pitches to educational institutions/investors
 - Required: fast acquisition of subject knowledge, a constant eye to writing in a strict house style, and seamless communication with colleagues.
 
 #### MediaPlanet (nov 2021-present) 
 Freelance Editor & Proofreader
-- I leant on my previous experiences in editorial work to turnover articles handed to me within 24 hours
-- Work was to be published in such publications as The Times, The Guardian and The Independent
+- I leant on my previous experiences in editorial work to turnover articles handed to me within 24 hours.
+- Edited pieces were to be published in such publications as The Times, The Guardian and The Independent.
 
 #### Roar News (2017-2020)
 Editor & Proofreader
@@ -45,7 +45,7 @@ Editor & Proofreader
 #### Action Tutoring (2021-present)
 Volunteer English Tutor
 - Helping teach disadvantaged children, aged 9-15, struggling with English.
-- Either in groups or 1 on 1, I found the process of supporting these children through their school terms and watching their confidence grow extremely rewarding
+- Either in groups or 1 on 1, I found the process of supporting these children through their school terms and watching their confidence grow extremely rewarding.
 
 ## Skills
 
@@ -84,13 +84,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### King's College London (sept 2016/may 2020)
 
-- BA Classical Studies with English Literature, specializing in Greek Drama & Literature, James Joyce, and Milton
-- Awarded a 2:1 with a 67 average in my Final year
-- Worked as a trusted editor of the university newspaper, ROAR
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- BA Classical Studies with English Literature, specializing in Greek Drama & Literature, James Joyce, and Milton.
+- Awarded a 2:1 with a 67 average in my Final year.
+- Worked as a trusted editor of the university newspaper, Roar.
 
 ## Hobbies
 
