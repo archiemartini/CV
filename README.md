@@ -1,6 +1,6 @@
 ## Archie Martin
 
-A full-stack JS/Ruby developer with a penchant for problem-solving and a winning smile. I've spent the past ten months learning to code, four of those under the tutelage of leading bootcamp, Makers Academy. I'm looking to make a difference in people's lives with the code that I write. Most of all, I'm excited to learn, and never stop learning. That's my goal. If you think you can help me in achieving this, don't hesitate to contact me 🚂
+A full-stack JS/Ruby developer with a penchant for problem-solving and a winning smile. I've spent the past ten months learning to code, four of those under the tutelage of leading bootcamp, Makers Academy. I'm looking to make a difference in people's lives with the code that I write. Most of all, I'm excited to learn, and never stop learning. That's my goal. If you think you can help me in achieving this, don't hesitate to contact me!
 
 ## Projects
 
