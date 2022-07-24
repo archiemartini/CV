@@ -98,4 +98,4 @@ That in some arguable way make you a better software developer or well-rounded p
 - I've been obsessed with bouldering and rock climbing for many years and I'm currently attending a strongman gym in East London, where I regularly attend Brazilian Jiu Jitsu and Boxing classes. Watch this space 💪
 - I'm an avid film and television fan, with a savant knowledge of comedy to boot.
 - I'd say I'm a videogamer, but that implies my games library consists of more than just DayZ, Rocket League, and Mario Kart (Wii)
-- I'm not afraid to put money on a game of Backgammon 🎲🎲 or Poker 🃏
+- I'm not afraid to put money on a game of Backgammon 🎲🎲 or Poker ♠️
