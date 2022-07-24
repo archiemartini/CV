@@ -74,21 +74,6 @@ Volunteer English Tutor
 - We met our deadline and delivered a pitch that received commendations from such organisations as SOAS university and Tower Hamlets council. With the work we did our director went on to secure government funding for the company, in its quest to help deliver cultural capital to the people.
 
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
 #### King's College London (sept 2016/may 2020)
