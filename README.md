@@ -16,12 +16,15 @@ A full-stack JS/Ruby developer with a penchant for problem-solving and a winning
 ## Experience
 
 #### Makers Academy (march 2022-july 2022)
-- Gave me the confidence to know that I can become comfortable with complex programming concepts and languages in a matter of months, even weeks.
-- Worked in teams to both produce and learn the fundamentals of multiple full-stack projects.
-- Received training in Agile processes, in order to complete projects in two-week sprints.
-- Frequently used pair-programming in order to problemsolve effeciently, and further develop my teamwork and communication skills.
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+At Makers, I have studied computer science and metaprogramming principles along with hands-on coding, working on mobile, web and
+desktop applications using Ruby and Javascript.
+As a student I had the following responsibilities:
+• Take ownership of my learning process, time-boxing tasks to increase my learning curve.
+• Use Agile methodologies to work effectively in a team, using pair programming, XP values, daily standups and sprint planning.
+• Give and receive feedback using code reviews and open/respectful communication.
+• Understand project requirements, create user stories, define MVP's features, break features in smaller tasks to easily accomplish them.
+• Collaborate with the other team members using GitHub as version control tools and using CI/CD to reduce integration risk.
+• Code following principles like TDD and S.O.L.I.D of OOP design pattern to create clear, simple code and well-tested applications.
 
 #### The Cultural Me (sept 2020-sept 2021)
 Editorial and Creative Assistant
