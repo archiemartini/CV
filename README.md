@@ -18,6 +18,7 @@ A full-stack JS/Ruby developer with a penchant for problem-solving and a winning
 #### Makers Academy (march 2022-july 2022)
 At Makers, I have studied computer science and metaprogramming principles along with hands-on coding, working on mobile, web and
 desktop applications using Ruby and Javascript.
+
 As a student I had the following responsibilities:
 - Take ownership of my learning process, time-boxing tasks to increase my learning curve.
 - Use Agile methodologies to work effectively in a team, using pair programming, XP values, daily standups and sprint planning.
