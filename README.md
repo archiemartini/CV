@@ -59,9 +59,9 @@ Volunteer English Tutor
 #### Team Player // Pair Programming
 - As part of my training at Makers Academy, great emphasis was put on pair-programming to help bolster our learning with as they introduced new concepts on a weekly basis. It was easy to fall behind and on one occasion my colleague with whom I was paired was struggling with the design pattern,  Dependency Injection.
 - Although my partner insisted that we should part ways and work individually, I assured them I had no interest in furthering my own progress with the course materials.
-- I harkened back to my time as an English Tutor, and took time and care to help my colleague build their confidence in this vital aspect of Object Oriented Engineering with which I’d struggled with myself. Using diagrams, mapping out the logic on Miro boards, and going back through previous exercises, I instructed my partner in the complexities of this design pattern.
+- I recalled my time as an English Tutor, and took time and care to help my colleague build their confidence in this vital aspect of Object Oriented Engineering with which I’d struggled with myself. Using diagrams, mapping out the logic on Miro boards, and going back through previous exercises, I instructed my partner in the complexities of this design pattern.
 - I was reminded of the jiu jitsu classes I attend, and the progress I’d made from the help of others more experienced. In martial arts the community is vital to the process of learning. Therein is a culture of those who are more experienced helping those who are less experienced. A virtue I would like to think I’d bring into any workplace.
-- When you help someone less experienced you empower them and in turn empower yourself and your community and that is something I would take with me into any role. My colleague went on to gain solid understanding of this difficult concept. Whereas I was both glad I consolidated my own learning by helping another and pleased that I contributed to our own Makers cohort community.
+- When you help someone less experienced you empower them and in turn empower yourself and your community. My colleague went on to gain solid understanding of this difficult concept. Whereas I was both glad I consolidated my own learning by helping another and pleased that I contributed to our own Makers cohort community.
 
 
 
