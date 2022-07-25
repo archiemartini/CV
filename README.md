@@ -64,7 +64,7 @@ Volunteer English Tutor
 - As part of my training at Makers Academy, great emphasis was put on pair-programming to help bolster our learning with as they introduced new concepts on a weekly basis. It was easy to fall behind and on one occasion my colleague with whom I was paired was struggling with the design pattern,  Dependency Injection.
 - Although my partner insisted that we should part ways and work individually, I assured them I had no interest in furthering my own progress with the course materials.
 - I recalled my time as an English Tutor, and took time and care to help my colleague build their confidence in this vital aspect of Object Oriented Engineering with which I’d struggled with myself. Using diagrams, mapping out the logic on Miro boards, and going back through previous exercises, I instructed my partner in the complexities of this design pattern.
-- I was reminded of the jiu jitsu classes I attend, and the progress I’d made from the help of others more experienced. In martial arts the community is vital to the process of learning. Therein is a culture of those who are more experienced helping those who are less experienced. A virtue I would like to think I’d bring into any workplace.
+- I was reminded of the jiu jitsu classes I attend, and the progress I’d made from the help of others more experienced. In martial arts the community is vital to the process of learning. Therein is a culture of those who are more experienced helping those who are less experienced. A virtue I believe should be encouraged and shared in any workplace.
 - When you help someone less experienced you empower them and in turn empower yourself and your community. My colleague went on to gain solid understanding of this difficult concept. Whereas I was both glad I consolidated my own learning by helping another and pleased that I contributed to our own Makers cohort community.
 
 
@@ -73,9 +73,9 @@ Volunteer English Tutor
 #### Meeting Deadlines
 
 - In my role as a Editorial Assistant at a fast-paced startup, The Cultural Me, the director gave us, a team of four, two months to produce fourteen high-quality educational presentations on various topics
-- The production of just one of these presentations required intense study of a single subject, in order to talk about it authorititavely and comprehensively.
-- As a team we utilised trello boards to work in several day Agile sprints, where we would perform morning stand-ups, pitch ideas, draft presentations, and even record video content for our final pieces. 
-- We met our deadline and delivered a pitch that received commendations from such organisations as SOAS university and Tower Hamlets council. With the work we did our director went on to secure government funding for the company, in its quest to help deliver cultural capital to the people.
+- The production of just one of these presentations required intense study of a single subject, in order to educate others about it authorititavely and comprehensively.
+- Leading the team I utilised trello boards to work in several day Agile sprints, where I would host morning stand-ups where the team could pitch ideas, draft presentations, and even arrane to meet up and record video content for our final pieces. 
+- We met our deadline and delivered a pitch that received commendations from such organisations as SOAS university and Tower Hamlets council. With the work we did our director went on to secure government funding for the company
 
 
 ## Education
@@ -91,5 +91,4 @@ Volunteer English Tutor
 - I am a talented chef, an accomplished eater and an unmatched drinker
 - I've been obsessed with bouldering and rock climbing for many years and I'm currently attending a strongman gym in East London, where I regularly attend Brazilian Jiu Jitsu and Boxing classes. Watch this space 💪
 - I'm an avid film and television fan, with a savant knowledge of comedy to boot.
-- I'd say I'm a videogamer, but that implies my games library consists of more than just DayZ, Rocket League, and Mario Kart (Wii)
-- I'm not afraid to put money on a game of Backgammon 🎲🎲 or Poker ♠️
+- I'm not afraid to put money on a game of Backgammon 🎲🎲, Poker ♠️ or Mario Kart (Wii) 🎮
