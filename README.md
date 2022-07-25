@@ -57,7 +57,7 @@ Volunteer English Tutor
 - At the end of the Makers course, I was placed in a team and tasked with creating a web app entirely of our own design. Guidance was minimal and the coaches encouraged us to learn a new technology in the two weeks assigned.
 - My team decided we would create a MERN stack application from scratch. We chose something that neither of us had any experience with, as eachother's learning was our sole objective.With 5 hours of a React tutorial under my belt I fell into the position of leading the frontend of the application.
 - There wasn’t time to continue the 16 hour tutorial, we had to deliver our MVP (Minimum Viable Product) quick. Over the course of the next couple days I put great emphasis on individual study, going through React documentation, drawing up diagrams, and utilizing smart Google searches to get the exact information and understanding I needed. I then coupled this with extensive pair-programming with my teammates to ensure everyone felt comfortable with the framework.
-- In just three days we delivered our MVP. At the end of the project we had a fully featured, responsive, MERN stack application. I am proud to say I spear-headed the application's frontend and having utilised pair-programming I’d been able to support my team-mates own learning, so that all of us could understood the code we’d written together.
+- In just three days we delivered our MVP. At the end of the project we had a fully featured, responsive, MERN stack application. I am proud to say I spearheaded the application's frontend and having utilised pair-programming I’d been able to support my teammates' own learning, so that all of us could understood the code we’d written together.
 
 
 #### Team Player // Pair Programming
