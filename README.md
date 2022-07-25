@@ -2,7 +2,7 @@
 
 A full-stack JS/Ruby developer with a penchant for problem-solving and a winning smile. I've spent the past ten months learning to code, four of those under the tutelage of leading bootcamp, Makers Academy. I'm excited to learn, and never stop learning. That's my goal. If you think you can help me in achieving this, don't hesitate to contact me!
 
-![LinkedIn]](https://www.linkedin.com/in/archie-martin-2689251b1/)
+[![LinkedIn]](https://www.linkedin.com/in/archie-martin-2689251b1/)
 
 ## Projects
 
