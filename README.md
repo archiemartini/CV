@@ -94,3 +94,5 @@ Volunteer English Tutor
 - I've been obsessed with bouldering and rock climbing for many years and I'm currently attending a strongman gym in East London, where I regularly attend Brazilian Jiu Jitsu and Boxing classes. Watch this space 💪
 - I'm an avid film and television fan, with a savant knowledge of comedy to boot.
 - I'm not afraid to put money on a game of Backgammon 🎲🎲, Poker ♠️ or Mario Kart (Wii) 🎮
+
+[LinkedIn]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
