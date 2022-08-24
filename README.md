@@ -1,6 +1,6 @@
 ## Archie Martin
 
-A full-stack JavaScript and Ruby developer with a penchant for problem-solving and a winning smile. I've spent the past ten People-orientated professional with a penchant for problem-solving. My experience shows a proven ability to manage priorities, meet deadlines, and produce deliverables.  I've spent the past ten months learning to code, four of those under the tutelage of leading boot camp, Makers Academy. In this time I've discovered I'm capable of learning complex programming languages and concepts with exceptionally fast turnaround. If you're interested in helping me as I continue this journey of discovery, don't hesitate to contact me!
+A full-stack JavaScript and Ruby developer with a penchant for problem-solving and a winning smile. My experience shows a proven ability to manage priorities, meet deadlines, and produce deliverables.  I've spent the past ten months learning to code, four of those under the tutelage of leading boot camp, Makers Academy. In this time I've discovered I'm capable of learning complex programming languages and concepts with exceptionally fast turnaround. If you're interested in helping me as I continue this journey of discovery, don't hesitate to contact me!
 
 [![LinkedIn]](https://www.linkedin.com/in/archie-martin-2689251b1/)
 
