@@ -19,16 +19,16 @@ A full-stack JavaScript and Ruby developer with a penchant for problem-solving a
 ## Experience
 
 #### Makers Academy (march 2022-july 2022)
-At Makers, I have studied computer science and metaprogramming principles along with hands-on coding, working on mobile, web and
-desktop applications using Ruby and Javascript.
+During this 16 week course, I was instructed in all the most vital aspects of Software Development. I would be given regular tests and projects that would develop my abilities with producing web and desktop applications, hands on, in both Ruby and JavaScript.
 
-As a student I had the following responsibilities:
+As a student I learnt to…
+
+- Code following principles like TDD and S.O.L.I.D of OOP design pattern to create clear, simple code and well-tested applications.
 - Take ownership of my learning process, time-boxing tasks to increase my learning curve.
-- Use Agile methodologies to work effectively in a team, using pair programming, XP values, daily standups and sprint planning.
-- Give and receive feedback using code reviews and open/respectful communication.
 - Understand project requirements, create user stories, define MVP's features, break features in smaller tasks to easily accomplish them.
 - Collaborate with the other team members using GitHub as version control tools and using CI/CD to reduce integration risk.
-- Code following principles like TDD and S.O.L.I.D of OOP design pattern to create clear, simple code and well-tested applications.
+- Use Agile methodologies to work effectively in a team, using pair programming, XP values, daily standups and sprint planning.
+- Give and receive feedback using code reviews and open/respectful communication.
 
 #### The Cultural Me (sept 2020-sept 2021)
 Editorial and Creative Assistant
