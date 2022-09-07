@@ -77,7 +77,7 @@ Volunteer English Tutor
 
 - In my role as a Editorial Assistant at a fast-paced startup, The Cultural Me, the director gave us, a team of four, two months to produce fourteen high-quality educational presentations on various topics
 - The production of just one of these presentations required intense study of a single subject, in order to educate others about it authorititavely and comprehensively.
-- Leading the team I utilised trello boards to work in several day Agile sprints, where I would host morning stand-ups where the team could pitch ideas, draft presentations, and even arrane to meet up and record video content for our final pieces. 
+- Leading the team I utilised trello boards to work in several day Agile sprints, where I would host morning stand-ups where the team could pitch ideas, draft presentations, and even arrage to meet up and record video content for our final pieces. 
 - We met our deadline and delivered a pitch that received commendations from such organisations as SOAS university and Tower Hamlets council. With the work we did our director went on to secure government funding for the company
 
 
