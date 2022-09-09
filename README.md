@@ -35,7 +35,7 @@ Editorial and Creative Assistant
 - Worked in a team to deliver highly succinct educational content to be delivered to a worldwide audience, under weekly deadlines.
 - Heavily involved with product development, design, and advertisement.
 - Given responsibility for drafting pitches to educational institutions/investors
-- Required: fast acquisition of subject knowledge, a constant eye to writing in a strict house style, and seamless communication with colleagues.
+- This role required fast acquisition of subject knowledge, with a constant eye to writing in a strict house style, and seamless communication with colleagues.
 
 #### MediaPlanet (nov 2021-present) 
 Freelance Editor & Proofreader
