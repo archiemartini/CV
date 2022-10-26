@@ -10,10 +10,11 @@ People-oriented professional with a penchant for problem-solving. My experience 
 |---       |---          |---          |---          |
 | architter [site](https://architter-app.herokuapp.com/)/[repo](https://github.com/archiemartini/chitter-challenge-react)| Solo | A Twitter clone, built in React, using Makers' [own API](https://github.com/makersacademy/chitter_api_backend#readme)|JavaScript, Node.js, React, Material UI, CSS, HTML Jest|
 | [Brains On Brioche](https://github.com/Farzan-I/brains-on-brioche) | Group | A webapp that gives the user recipe suggestions from the contents of their fridge | JavaScript, MERN stack (MongoDB, Express, React, Node.js), React-Redux, CSS, HTML, Cypress, Jest, Mongoose |
-| [bettah](https://github.com/tomoneill32/acebook-allowTeamToReceiveName) | Group | Facebook but Better. In this project gained understanding of Express backend architecture, incorporating MongoDB for data storage | JavaScript, Node.js, Express, Handlebars, HTML, CSS, Jest, MongoDB, Mongoose, Cypress, Bcrypt |
-| [MakersBnB](https://github.com/archiemartini/MakersBnB)| Group | An AirBnB clone. | Ruby, Rspec, Sinatra, Capybara, CSS, HTML, PostgreSQL, Bcrypt |
 |[Takeaway Challenge](https://github.com/archiemartini/javascript-takeaway-challenge) | Solo | The backend logic of a takeaway ordering application. A clean example of OOE principles, incorporating API calls | JavaScript, Node.js, Jest, Twilio |
 | [Simple Banking App](https://github.com/archiemartini/bank-tech-test) | Solo | Another clean example of OOE principles. | JavaScript, Node.js, Jest | 
+
+| [bettah](https://github.com/tomoneill32/acebook-allowTeamToReceiveName) | Group | Facebook but Better. In this project gained understanding of Express backend architecture, incorporating MongoDB for data storage | JavaScript, Node.js, Express, Handlebars, HTML, CSS, Jest, MongoDB, Mongoose, Cypress, Bcrypt |
+| [MakersBnB](https://github.com/archiemartini/MakersBnB)| Group | An AirBnB clone. | Ruby, Rspec, Sinatra, Capybara, CSS, HTML, PostgreSQL, Bcrypt |
 
 
 ## Experience
