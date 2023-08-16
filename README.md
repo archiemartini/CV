@@ -18,17 +18,28 @@ People-oriented professional with a penchant for problem-solving. My experience 
 
 ## Experience
 
+#### Wondr Medical (dec 2022-ongoing)
+A fast-paced, multidirectional, med tech start up, seeking to connect medical professionals across the world. 
+Here I...
+
+- Developed a secure and compliant communications app for clinical trials, meeting SOC 2 and US HIPAA standards, while also maintaining the companies core networking website for healthcare professionals.
+- Applied modern CI/CD practices, AGILE methodologies and TDD to develop web and mobile applications using Ruby on Rails and React Native. Herein, I honed a systematic approach to debugging and problem solving.
+- I was empowered to lead the coordination and finalization of deployments into production environments. Managing feature branches, ensuring proper approval of all content and proper integration with main.
+- Gained experience with AWS tools such as Kinesis and Chime. I also took advantage of my training allowance to train for the AWS Certified Cloud Practitioner exam.
+- In my rotational QA role I was authorized to create Expo builds for the proper regression and backwards compatibility testing of new features on Android and iOS.
+- Assisted in building out a Detox test suite to automate regression tests of our React Native app, with a view to integrating it into existing CI/CD pipelines.
+- Facilitated effective communication between Design, Product, and Data teams to ensure precise alignment with company-wide objectives.
+- 
 #### Makers Academy (march 2022-july 2022)
-During this 16 week course, I was instructed in all the most vital aspects of Software Development. I would be given regular tests and projects that would develop my abilities with producing web and desktop applications, hands on, in both Ruby and JavaScript.
+During this 16-week course, I was instructed in all the most essential aspects of Software Development. I would be given regular tests and projects that would develop my abilities with producing web and mobile applications, hands on, in both Ruby and JavaScript. 
+As a student I learnt to...
 
-As a student I learnt to…
-
-- Code following principles like TDD and S.O.L.I.D of OOP design pattern to create clear, simple code and well-tested applications.
 - Take ownership of my learning process, time-boxing tasks to increase my learning curve.
-- Understand project requirements, create user stories, define MVP's features, break features in smaller tasks to easily accomplish them.
-- Collaborate with the other team members using GitHub as version control tools and using CI/CD to reduce integration risk.
-- Use Agile methodologies to work effectively in a team, using pair programming, XP values, daily standups and sprint planning.
+- Use AGILE methodologies to work in a team, using pair programming, XP values, daily stand-ups and sprint planning.
 - Give and receive feedback using code reviews and open/respectful communication.
+- Understand project requirements, create user stories, define MVP features and break features into smaller tasks to accomplish them.
+- Collaborate with the other team members using Git version control and using CI/CD to reduce integration risk.
+- Write code following principles like TDD and S.O.L.I.D of OOP design pattern to create clear, simple code and well-tested applications.
 
 #### The Cultural Me (sept 2020-sept 2021)
 Editorial and Creative Assistant
@@ -69,8 +80,6 @@ Volunteer English Tutor
 - I recalled my time as an English Tutor, and took time and care to help my colleague build their confidence in this vital aspect of Object Oriented Engineering with which I’d struggled with myself. Using diagrams, mapping out the logic on Miro boards, and going back through previous exercises, I instructed my partner in the complexities of this design pattern.
 - I was reminded of the jiu jitsu classes I attend, and the progress I’d made from the help of others more experienced. In martial arts the community is vital to the process of learning. Therein is a culture of those who are more experienced helping those who are less experienced. A virtue I believe should be encouraged and shared in any workplace.
 - When you help someone less experienced you empower them and in turn empower yourself and your community. My colleague went on to gain solid understanding of this difficult concept. Whereas I was both glad I consolidated my own learning by helping another and pleased that I contributed to our own Makers cohort community.
-
-
 
 
 #### Meeting Deadlines
