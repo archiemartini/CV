@@ -29,7 +29,7 @@ Here I...
 - In my rotational QA role I was authorized to create Expo builds for the proper regression and backwards compatibility testing of new features on Android and iOS.
 - Assisted in building out a Detox test suite to automate regression tests of our React Native app, with a view to integrating it into existing CI/CD pipelines.
 - Facilitated effective communication between Design, Product, and Data teams to ensure precise alignment with company-wide objectives.
-- 
+
 #### Makers Academy (march 2022-july 2022)
 During this 16-week course, I was instructed in all the most essential aspects of Software Development. I would be given regular tests and projects that would develop my abilities with producing web and mobile applications, hands on, in both Ruby and JavaScript. 
 As a student I learnt to...
